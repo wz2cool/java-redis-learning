@@ -5,7 +5,6 @@ import com.github.wz2cool.javaRedisLearning.learning.sortedSet.model.User;
 import com.google.gson.Gson;
 import redis.clients.jedis.Jedis;
 
-import java.util.List;
 import java.util.Set;
 
 public class Program {
